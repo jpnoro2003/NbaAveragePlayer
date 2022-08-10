@@ -11,6 +11,6 @@ After analyzing over 25000 data points over 43 seasons, I developed an interacti
 
 Below is a link to the article, which goes more in depth with the analysis, alongside a link to a dashboard if you want to play with the data yourself.
 
-Dashboard: https://public.tableau.com/app/profile/jaden.noronha/viz/HistoricalAverageNBAPlayer/Dashboard1?publish=yes
+Dashboard (Optimized for tablets/desktop/laptop): https://public.tableau.com/app/profile/jaden.noronha/viz/HistoricalAverageNBAPlayer/Dashboard1?publish=yes
 
 Article: https://medium.com/@jpnoro2003/analyzing-the-average-nba-player-from-1979-80-to-2021-22-8c7556b07b49
